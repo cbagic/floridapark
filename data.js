@@ -75,19 +75,19 @@ var APP_DATA = {
           "fullscreen": false
         },
         {
-          "yaw": -1,
-          "pitch": -.75,
-          "title": "Get Your Bearings<br>",
-          "text": "<img src='https://i.imgur.com/QXnj6N8.png' width='100%' alt='map'>",
-          "fullscreen": true
-        },
-        {
           "yaw": -0.6064219157554067,
           "pitch": -0.15312568675680538,
           "title": "Bayou",
           "text": "Florida Park is located on Boggy Bayou, which is connected to the Choctawhatchee Bay. Turkey Creek feeds into Boggy Bayou. On the" +
               " map below, a gold star marks Florida Park.<br><br>" +
               "<img src='https://i.imgur.com/FXEOtmY.png' width='100%' alt='choctawhatchee bay'>",
+          "fullscreen": true
+        },
+        {
+          "yaw": -1,
+          "pitch": -.75,
+          "title": "Get Your Bearings<br>",
+          "text": "<img src='https://i.imgur.com/QXnj6N8.png' width='100%' alt='map'>",
           "fullscreen": true
         }
       ]
@@ -150,7 +150,7 @@ var APP_DATA = {
           "yaw": -0.6364160959109739,
           "pitch": 0.11496314526648099,
           "title": "Healthy salt marsh<br>",
-          "text": "Text",
+          "text": "<img src='https://i.imgur.com/lMH9R4v.jpg' width='100%' alt='salt marsh'>",
           "fullscreen": false
         },
         {
@@ -210,8 +210,8 @@ var APP_DATA = {
         {
           "yaw": 1.858551840807099,
           "pitch": 0.3225058288937319,
-          "title": "Rushes",
-          "text": "Text",
+          "title": "Creatures in the salt marsh",
+          "text": "<img src='https://i.imgur.com/E9V3pFu.jpg?1' width='100%' alt='dragonfly'>",
           "fullscreen": false
         },
         {
@@ -305,18 +305,11 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -2.488562712955064,
-          "pitch": -0.1674347074903988,
-          "title": "AmeriCorps reef monitoring<br>",
-          "text": "Text",
-          "fullscreen": false
-        },
-        {
           "yaw": -0.9771106000205272,
           "pitch": 0.285414227673634,
           "title": "Reef materials<br>",
-          "text": "Text",
-          "fullscreen": false
+          "text": "<img src='https://i.imgur.com/CvgGztF.jpg?1' alt='reef with shell bags' width='100%'>",
+          "fullscreen": true
         },
         {
           "yaw": -2.0949684597017733,
@@ -343,6 +336,13 @@ var APP_DATA = {
           "yaw": 2.1070045940186235,
           "pitch": -0.1180552749363315,
           "title": "Fetch",
+          "text": "Text",
+          "fullscreen": false
+        },
+        {
+          "yaw": -2.488562712955064,
+          "pitch": -0.1674347074903988,
+          "title": "AmeriCorps reef monitoring<br>",
           "text": "Text",
           "fullscreen": false
         }
@@ -388,13 +388,6 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.36704948150374506,
-          "pitch": -0.05423796558591398,
-          "title": "<div>Exposed roots</div>",
-          "text": "Text",
-          "fullscreen": false
-        },
-        {
           "yaw": -0.26336257062032153,
           "pitch": 0.1598748214309058,
           "title": "Erosion is bad<br>",
@@ -412,7 +405,15 @@ var APP_DATA = {
           "yaw": 0.9320321248486962,
           "pitch": 0.02714950686969786,
           "title": "<div>Smooth cordgrass is still growing in here</div>",
-          "text": "Text",
+          "text": "<img src='https://i.imgur.com/BVVvWQ6.jpg' alt='smooth cordgrass around tree' width='100%'> Smooth cordgrass is very hardy" +
+              " and can grow right up to the tree. It grows around the roots, helping stabilize them.",
+          "fullscreen": false
+        },
+        {
+          "yaw": 0.36704948150374506,
+          "pitch": -0.05423796558591398,
+          "title": "<div>Exposed roots</div>",
+          "text": " Exposed roots are a bad sign, sign of erosion.",
           "fullscreen": false
         }
       ]
@@ -548,6 +549,13 @@ var APP_DATA = {
           "fullscreen": false
         },
         {
+          "yaw": -0.5,
+          "pitch": -0.12031032364778227,
+          "title": "Invasive Popcorn Tree<br>",
+          "text": "<img src='https://i.imgur.com/cXIPDQY.jpg' alt='popcorn tree' width='100%'>",
+          "fullscreen": false
+        },
+        {
           "yaw": -1.368532988544068,
           "pitch": -0.4873598745043477,
           "title": "Cypress",
@@ -566,6 +574,13 @@ var APP_DATA = {
           "pitch": 0.10777509613079062,
           "title": "Fresh water<br>",
           "text": "Text",
+          "fullscreen": false
+        },
+        {
+          "yaw": 2.8,
+          "pitch": 0,
+          "title": "Creek towards bay<br>",
+          "text": "<img src='https://i.imgur.com/bEn3Irf.jpg?1' alt='creek close up' width='100%'>",
           "fullscreen": false
         },
         {
