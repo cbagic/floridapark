@@ -87,7 +87,7 @@ var APP_DATA = {
           "yaw": -1,
           "pitch": -.75,
           "title": "Get Your Bearings<br>",
-          "text": "<img src='https://i.imgur.com/QXnj6N8.png' width='100%' alt='map'>",
+          "text": "<img src='https://i.imgur.com/QXnj6N8.png' width='100%' alt='map'> If you want to edit an infohotspot, go here. Make sure you're typing in the text area. Hitting enter will mess things up. This will end up in your infohotspot on the webpage! Repeat this for all the infohotspots to add text. :)",
           "fullscreen": true
         }
       ]
@@ -150,7 +150,7 @@ var APP_DATA = {
           "yaw": -0.6364160959109739,
           "pitch": 0.11496314526648099,
           "title": "Healthy salt marsh<br>",
-          "text": "<img src='https://i.imgur.com/lMH9R4v.jpg' width='100%' alt='salt marsh'>",
+          "text": "This infohotspot has an image, in the img tag. I've added all the florida park images we took, but if you want to add another one, make a new image tag like this: <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg' width='100%' alt='blue crab'><img src='https://i.imgur.com/lMH9R4v.jpg' width='100%' alt='salt marsh'> If you want to add text after the image, click here. Okay, done editing now!",
           "fullscreen": false
         },
         {
