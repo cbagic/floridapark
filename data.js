@@ -52,7 +52,8 @@ var APP_DATA = {
           "text": "Florida Park is a public park in Valparaiso, and you can visit it to enjoy beautiful views of" +
               " our living shoreline. Amenities include a playground, restrooms, covered picnic tables, and a boat launch. <br><br>" +
               "<img src='https://i.imgur.com/CzBqw8c.jpg' alt='Florida Park rules' width='100%'><br><br>" +
-              "<img src='https://i.imgur.com/TYLB44D.jpg' alt='Do not disturb living shoreline' width='100%>'>",
+              "<img src='https://i.imgur.com/TYLB44D.jpg' alt='Do not disturb living shoreline' width='100%><br><br>" +
+              "<a href='https://goo.gl/maps/FvCdvjVMQBfk5zq48' style='color: navyblue'> Google Maps Address of Florida Park</a>.,
           "fullscreen": true
         },
         {
