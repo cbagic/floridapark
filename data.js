@@ -53,7 +53,7 @@ var APP_DATA = {
               " our living shoreline. Amenities include a playground, restrooms, covered picnic tables, and a boat launch. <br><br>" +
               "<img src='https://i.imgur.com/CzBqw8c.jpg' alt='Florida Park rules' width='100%'><br><br>" +
               "<img src='https://i.imgur.com/TYLB44D.jpg' alt='Do not disturb living shoreline' width='100%><br><br>" +
-              "<a href='https://goo.gl/maps/FvCdvjVMQBfk5zq48' style='color: navyblue'> Google Maps Address of Florida Park</a>.<br>",
+              "<a href='https://goo.gl/maps/FvCdvjVMQBfk5zq48' style='color: blue'> Google Maps Address of Florida Park</a>. Welcome to the Florida Park! <br>",
           "fullscreen": true
         },
         {
