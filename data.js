@@ -49,7 +49,7 @@ var APP_DATA = {
           "yaw": 2.90194157236434,
           "pitch": 0.11202828508246299,
           "title": "Visit Florida Park<br>",
-          "text": "Florida Park is a public park in Valparaiso, and you can visit it to enjoy beautiful views of" +
+          "text": "Florida Park HHH is a public park in Valparaiso, and you can visit it to enjoy beautiful views of" +
               " our living shoreline. Amenities include a playground, restrooms, covered picnic tables, and a boat launch." +
               "This is a public park, please visit at <a href='https://goo.gl/maps/4nZTzyPQ9xArWHH46' style=color: black'>Florida Park<a/a><br><br>" +
               "<img src='https://i.imgur.com/CzBqw8c.jpg' alt='Florida Park rules' width='100%'><br><br>" +
