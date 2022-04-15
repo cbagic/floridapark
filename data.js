@@ -50,7 +50,7 @@ var APP_DATA = {
           "pitch": 0.11202828508246299,
           "title": "Visit Florida Park<br>",
           "text": "Florida Park is a public park in Valparaiso, and you can visit it to enjoy beautiful views of" +
-              " our living shoreline. Amenities include a playground, restrooms, covered picnic tables, and a boat launch." 
+              " our living shoreline. Amenities include a playground, restrooms, covered picnic tables, and a boat launch." + 
               "<img src='https://i.imgur.com/CzBqw8c.jpg' alt='Florida Park rules' width='100%'><br><br>" +
               "<img src='https://i.imgur.com/TYLB44D.jpg' alt='Do not disturb living shoreline' width='100%><br><br>",
           "fullscreen": true
