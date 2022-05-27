@@ -398,7 +398,7 @@ var APP_DATA = {
           "yaw": -2.192311742893315,
           "pitch": -0.18925836787576245,
           "title": "Person using the dock<br>",
-          "text": "Text",
+          "text": "This person is taking advantage of the view of the bay and our limestone reefs!",
           "fullscreen": false
         },
         {
