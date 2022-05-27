@@ -391,8 +391,8 @@ var APP_DATA = {
           "yaw": -0.26336257062032153,
           "pitch": 0.1598748214309058,
           "title": "Erosion is occurring<br>",
-          "text": "Erosion is the process of sediment being worn down and moved  to another location due to rising sea levels, wind, or changes in shoreline stability caused by storms, overuse, and construction that changes the geological structure of the coastline and the natural flow of sand accumulation.",<br><br> +
-          " Over 50% of Florida beaches have eroded, 825 miles of which are considered critically eroded where the level of erosion threatens nearby development and recreational interests." <br><br> 
+          "text": "Erosion is the process of sediment being worn down and moved  to another location due to rising sea levels, wind, or changes in shoreline stability caused by storms, overuse, and construction that changes the geological structure of the coastline and the natural flow of sand accumulation.", +
+          "Over 50% of Florida beaches have eroded, 825 miles of which are considered critically eroded where the level of erosion threatens nearby development and recreational interests. <br><br>",
           "fullscreen": false
         },
         {
